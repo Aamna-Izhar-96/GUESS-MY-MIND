@@ -1,0 +1,40 @@
+C:\Visual Studios programs\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.SplashScreen.resources
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.MainForm.resources
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csproj.GenerateResource.Cache
+C:\Visual Studios programs\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+C:\Visual Studios programs\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.WinningForm.resources
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csprojResolveAssemblyReference.cache
+C:\Visual Studios programs\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.UpdateknowledgeScreen.resources
+D:\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+D:\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+D:\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+D:\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+D:\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+D:\Guessing Game\Guessing Game\obj\Debug\ResolveAssemblyReference.cache
+D:\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.SplashScreen.resources
+D:\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.MainForm.resources
+D:\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+D:\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.UpdateknowledgeScreen.resources
+D:\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.WinningForm.resources
+D:\Guessing Game\Guessing Game\obj\Debug\GenerateResource.read.1.tlog
+D:\Guessing Game\Guessing Game\obj\Debug\GenerateResource.write.1.tlog
+F:\prev sem\projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+F:\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+F:\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csprojResolveAssemblyReference.cache
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.SplashScreen.resources
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.MainForm.resources
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.UpdateknowledgeScreen.resources
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.WinningForm.resources
+F:\Files\prev sem\projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csproj.GenerateResource.Cache

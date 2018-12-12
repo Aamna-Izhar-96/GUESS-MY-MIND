@@ -1,0 +1,59 @@
+Is Your Object Living ?
+brain of computer?
+Can it use for calling?
+Does it use to carry a luggage?
+Can we eat it?
+ Can we sit on it ?
+ We get a light from it
+Door
+x
+x
+BULB
+x
+x
+Chair
+x
+x
+Cake
+x
+x
+Suitcase
+x
+x
+Mobile
+x
+x
+Cpu
+x
+x
+Does It have wings ?
+Does it barking ?
+Is ur object king of forest ?
+Does It takes education?
+Fish
+x
+x
+Human
+x
+x
+lion
+x
+x
+Dog
+x
+x
+It is black in color?
+Does it live in water?
+Does it beak usually red in color?
+Bird
+x
+x
+Parrot 
+x
+x
+Fish
+x
+x
+Crow
+x
+x
